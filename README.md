@@ -1,4 +1,4 @@
-# **Telecom Customer Churn Prediction**
+# **SyriaTel Customer Churn Prediction**
 ### Author : [Maureen Kitang'a](https://github.com/ndungek)
 
 ---
