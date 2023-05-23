@@ -65,4 +65,4 @@ The recall score of our XGB classifier was 79%. While this is still a good predi
 ```
 ## For More Information
 
-* Please review the full analysis in the [Jupyter Notebook](/index.ipynb) or the [Presentation]
+* Please review the full analysis in the [Jupyter Notebook](/index.ipynb) or the [Presentation](https://drive.google.com/file/d/10fTwhMg3AZLj-kgNuJm2XHYCTJf0Mgcx/view?usp=sharing)
