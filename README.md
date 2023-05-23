@@ -58,9 +58,9 @@ The recall score of our XGB classifier was 79%. While this is still a good predi
 |
 ├── presentation.pdf                     <- PDF version of project presentation
 |
-├── write_up.pdf                         <- PDF version of project write up
+├── telecom.csv                          <- Dataset used in the analysis 
 |
-└── telecom.csv                          <- Dataset used in the analysis
+└── write-up.pdf                         <- PDF version of project write up
      
 ```
 ## For More Information
